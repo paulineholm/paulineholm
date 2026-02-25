@@ -1,6 +1,6 @@
 <h1>Cześc, Davs, Hello, שלום 🤍</h1>
 <p>my name is <a href="https://www.linkedin.com/in/paulineholm/"><i>Pauline</i></a> 👩🏻‍💻</p>
-<p>I am a mid-level <b>fullstack software engineer</b>, currently on a hunt for new adventúres</p>
+<p>I am a mid-level <b>fullstack software engineer</b>, currently on a hunt for new professional adventúres</p>
 <p>my portfolio: <a href="https://paulineholm.netlify.app"><i>paulineholm.netlify.app</i></a> 👩🏻‍🎨</p>
 
 <br/>
